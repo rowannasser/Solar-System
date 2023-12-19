@@ -1,6 +1,7 @@
-# Solar-System
+# Solar System
 
 
-## Computer Graphics project
+### Computer Graphics project
+
 
 solar system using OpenGL
